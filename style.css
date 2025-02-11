@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.img-fluid{
+    background-image: url(bg1.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat; 
+    height: 100vh;
+}
+
+.bg2{
+    background-image: url(bti.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat; 
+    
+}
+section{
+    padding: 40px;
+    font-family: 'Times New Roman', Times, serif;
+   
+}
+
+.mt{
+    margin-top: 180px;
+    font-family: 'Times New Roman', Times, serif;
+}
